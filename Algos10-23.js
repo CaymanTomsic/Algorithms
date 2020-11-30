@@ -63,8 +63,7 @@ function floodFill(canvas2D, startXY, newColor, originalColor = null) {
     }
   
     return canvas2D
-  }
-
+}
 // canvas1 =   [
 //     [3, 2, 3, 4, 3],
 //     [2, 3, 3, 4, 0],
